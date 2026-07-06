@@ -1,0 +1,24 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Build
+build/
+dist/
+*.spec
+
+# Attendance
+attendance.csv
+
+
+# Unknown faces
+unknown_faces/
+
+known_faces/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
